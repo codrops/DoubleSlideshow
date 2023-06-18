@@ -1,6 +1,6 @@
 # Double Slideshow
 
-A background/foreground slideshow inspired by [Ape Case Hero](https://dribbble.com/shots/18201219-Exo-Ape-Case-Hero-Header). 
+A background/foreground slideshow inspired by [Exo Ape Case Hero](https://dribbble.com/shots/18201219-Exo-Ape-Case-Hero-Header). 
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/06/DoubleSlideshow-800x445.jpg?x43291)
 
